@@ -1,0 +1,1 @@
+Forcefully deletes the directory and its contents without confirmation. Use with extreme caution, as files cannot be recovered easily after using this command.
